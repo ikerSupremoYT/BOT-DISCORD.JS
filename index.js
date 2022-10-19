@@ -4,7 +4,7 @@ const client = new Discord.Client();
 
 const fs = require('fs')
 
-const Prefix = 'PTC!';
+const Prefix = 'Tu prefix';
 
 client.commands = new Discord.Collection();
 const commandFiles = fs.readdirSync('./comandos').filter(file => file.endsWith('.js'));
