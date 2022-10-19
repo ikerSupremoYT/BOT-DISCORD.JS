@@ -3,6 +3,7 @@
 //Spanish
 //Si quiere activar su bot ve a index.js y despues ve a abajo del todo y hay donde pone tu token poner tu token
 //El bot se ira mejorando poco a poco asique mirar esta pagina de vez en cuando
+Tambien puede cambiar el prefix donde pone prefix en index.js linea 6
 
 //Inglis
 //If you want to activate your bot go to index.js and then go to the bottom and there is where you put your token put your token
