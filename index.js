@@ -79,4 +79,4 @@ process.on("unhandledRejection", async (err) => {
   channel.send(`Error en consola!\n\`\`\`js\n${err}\`\`\``);
 });
 
-client.login("MTAyOTgzODIwNDk3MjU3NjgwOA.Gn7qyw.vLlUiGX9ak_aJPH0lgfrhMSmMypzgcilQAsDE4");
+client.login("tu token your token");
